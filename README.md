@@ -46,9 +46,9 @@ GUI Modu: Dosya yöneticisi üzerinden görsel seçim yapmak isteyen kullanıcı
 TUI Modu: Daha düşük kaynak tüketen, klavye odaklı hızlı işlemler için tasarlanmıştır. Whiptail üzerinden metin tabanlı yönlendirmelerle çalışır.
 
 ### Uygulama Ekran Görüntüleri:
-![Uygulama Ekran Görüntüsü](img/ekran_goruntusu.jpg)
-![Uygulama Ekran Görüntüsü](img/ekran_goruntusu.jpg)
-![Uygulama Ekran Görüntüsü](img/ekran_goruntusu.jpg)
+![Ana Ekran](img/pdfsıkıstırma.jpg)
+![Seçim Ekranı](img/pdfsıkıstırma2.jpg)
+![TUI ekranı](img/pdfsıkıstırma3.jpg)
 
 ### Tanıtım Videosu:
 Projenin özelliklerini, kod yapısını ve canlı demosunu içeren sesli anlatım videosuna aşağıdan ulaşabilirsiniz:
