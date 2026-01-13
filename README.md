@@ -54,6 +54,7 @@ TUI Modu: Daha düşük kaynak tüketen, klavye odaklı hızlı işlemler için 
 
 ### Tanıtım Videosu:
 Projenin özelliklerini, kod yapısını ve canlı demosunu içeren sesli anlatım videosuna aşağıdan ulaşabilirsiniz:
+https://youtu.be/xCN5BXgGK28
 
 ### Proje Geliştiricisi:
 
